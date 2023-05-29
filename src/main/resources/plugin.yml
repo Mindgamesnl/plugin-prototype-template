@@ -1,0 +1,4 @@
+name: Prototype
+version: '${project.version}'
+main: com.craftmend.prototype.PrototypePlugin
+api-version: 1.19
